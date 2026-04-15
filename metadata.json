@@ -1,0 +1,6 @@
+{
+  "name": "Glacier Timer",
+  "description": "A visual timer where an ice cube melts as time runs out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
